@@ -1,0 +1,16 @@
+#!/bin/bash
+
+#SGE options
+#$ -S /bin/bash
+#$ -j y
+#$ -pe smp 4
+#$ -cwd
+
+module load R
+
+echo $TR
+echo $SEED
+
+
+Rscript SeedMatch_counts.R $TR $SEED $OUT
+

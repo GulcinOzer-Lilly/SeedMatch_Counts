@@ -1,0 +1,9 @@
+
+LISA transcriptome files for each genome:
+/lrlhps/users/biorels_infra/LISA_PRD/PRD_FILES/LISA2.0/*/*_transcriptome.fasta
+
+
+Jeremy prepared below tables to subset UTR and coding regions: 
+/lrlhps/users/biorels_infra/LISA_PRD/PRD_FILES/LISA2.0/TR_LIST.csv
+/lrlhps/users/biorels_infra/LISA_PRD/PRD_FILES/LISA2.0/TR_POS_TYPE.csv
+

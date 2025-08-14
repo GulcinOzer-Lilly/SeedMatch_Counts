@@ -1,0 +1,11 @@
+10090	mouse	Mus musculus
+10116	rat	Rattus norvegicus
+10141	pig	Cavia porcellus
+9541	cyno	Macaca fascicularis
+9544	rhesus	Macaca mulatta
+9606	human	Homo sapiens
+9615	dog	Canis lupus familiaris
+9823	pig	Sus scrofa
+9913	cattle	Bos taurus
+9940	sheep	Ovis aries
+9986	rabbit	Oryctolagus cuniculus

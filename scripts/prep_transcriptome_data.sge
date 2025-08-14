@@ -1,0 +1,16 @@
+#!/bin/bash
+
+#SGE options
+#$ -S /bin/bash
+#$ -j y
+#$ -pe smp 4
+#$ -cwd
+
+module load R
+
+echo $TX
+echo $NAME
+
+
+Rscript prep_transcriptome_data.R $TX $NAME $OUT
+
